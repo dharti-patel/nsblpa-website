@@ -6,8 +6,7 @@ This is a **prototype website** for NSBLPA, showcasing home, teams, apps, athlet
 
 ## **Live Preview**
 
-If hosted on GitHub Pages, Netlify, or Vercel, you can access it here:  
-`https://YOUR_USERNAME.github.io/nsblpa-website/`
+`https://dharti-patel.github.io/nsblpa-website/salesbets-athlete.html/`
 
 ---
 
